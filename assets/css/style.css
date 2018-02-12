@@ -391,7 +391,7 @@ color: #888;
     margin: 0 auto;
     text-align: center;
     color: #fff;
-    background: url("../img/backgrounds/1.jpg");
+    background: url("../img/backgrounds/main.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -461,7 +461,7 @@ color: #888;
 
 .features-container {
     margin: 0 auto;
-    padding-bottom: 60px;
+    padding-bottom: -100px !important;
     color: #888;
     text-align: center;
 }
