@@ -575,7 +575,7 @@ color: #888;
 }
 
 .features-box1 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -593,7 +593,7 @@ color: #888;
 }
 
 .features-box1:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -635,7 +635,7 @@ color: #888;
 }
 
 .features-box2 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -653,7 +653,7 @@ color: #888;
 }
 
 .features-box2:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -695,7 +695,7 @@ color: #888;
 }
 
 .features-box3 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -713,7 +713,7 @@ color: #888;
 }
 
 .features-box3:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -789,7 +789,7 @@ color: #888;
 }
 
 .features-box4 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -807,7 +807,7 @@ color: #888;
 }
 
 .features-box4:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -849,7 +849,7 @@ color: #888;
 }
 
 .features-box5 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -867,7 +867,7 @@ color: #888;
 }
 
 .features-box5:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -909,7 +909,7 @@ color: #888;
 }
 
 .features-box6 .icon i{
-	color: #009ca8;
+	color: #6265af;
 	font-size: 60px;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -927,7 +927,7 @@ color: #888;
 }
 
 .features-box6:hover .icon i{
-	color: #0dc0c0;
+	color: #6265af;
     -o-transition: all .3s;
     -moz-transition: all .3s;
     -webkit-transition: all .3s;
@@ -1479,7 +1479,7 @@ color: #888;
 
 .contact-container {
 	margin: 0 auto;
-    background: url("../img/2.jpg");
+    background: url('http://t.itex.ru/~shipov_n/lending/assets/img/backgrounds/main.jpg');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
