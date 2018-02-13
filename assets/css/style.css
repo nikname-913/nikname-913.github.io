@@ -353,7 +353,7 @@ color: #888;
     width:100%;
 }
 .navbar-default.menu-shrink{
-    padding: 10px 0;
+    /* padding: 10px 0; */
 	background-color: #f3f3f3;
     /* border-bottom: 2px solid #eee; */
     width:100%;
