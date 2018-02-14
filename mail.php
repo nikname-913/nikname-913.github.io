@@ -2,13 +2,12 @@
 
 function main() {
 
-	$mail = htmlspecialchars($_GET['mail']);
-	$sub = htmlspecialchars($_GET['sub']);
-	$mess = htmlspecialchars($_GET['mess']);
+	$a = htmlspecialchars($_GET['mail']);
+	$b = htmlspecialchars($_GET['mes']);
 
-	$to = 'nik.shipov@yandex.ru';
+	// шлем письмо
 
-	mail($to, $sub, $mess);
+	file_get_contents("http://itex-clients.ru/dop-files/mailOne.php?mail=".$a."&mes=".$b."&sub=order");
 
 }
 

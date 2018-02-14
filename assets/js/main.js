@@ -143,3 +143,23 @@ jQuery(document).ready(function() {
     
 });
 
+(function() {
+
+	document.getElementsByClassName('go-mail')[0].addEventListener('click', function() {
+
+		// alert(document.getElementsByClassName('contact-email')[0].value);
+		// alert(document.getElementsByClassName('form-control')[2].value);
+
+		$.get('mail.php', {
+
+			mail: document.getElementsByClassName('contact-email')[0].value,
+			mes: document.getElementsByClassName('form-control')[2].value
+
+		}, cb);
+
+		function cb(data) {  }
+
+	});
+
+})();
+
