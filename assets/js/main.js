@@ -161,7 +161,7 @@ jQuery(document).ready(function() {
 
 		function cb(data) { 
 
-			alert(data);
+			// alert(data);
 
 		 }
 
