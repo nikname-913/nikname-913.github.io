@@ -147,6 +147,8 @@ jQuery(document).ready(function() {
 
 	document.getElementsByClassName('go-mail')[0].addEventListener('click', function() {
 
+		alert('Check');
+
 		// alert(document.getElementsByClassName('contact-email')[0].value);
 		// alert(document.getElementsByClassName('form-control')[2].value);
 
