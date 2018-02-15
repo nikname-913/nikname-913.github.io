@@ -159,7 +159,11 @@ jQuery(document).ready(function() {
 
 		}, cb);
 
-		function cb(data) {  }
+		function cb(data) { 
+
+			alert(data);
+
+		 }
 
 	});
 

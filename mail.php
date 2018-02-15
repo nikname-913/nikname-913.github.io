@@ -9,6 +9,8 @@ function main() {
 
 	file_get_contents("http://itex-clients.ru/dop-files/mailOne.php?mail=".$a."&mes=".$b."&sub=order");
 
+	echo 'Correct';
+
 }
 
 main();
