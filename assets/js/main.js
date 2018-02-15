@@ -152,7 +152,7 @@ jQuery(document).ready(function() {
 		// alert(document.getElementsByClassName('contact-email')[0].value);
 		// alert(document.getElementsByClassName('form-control')[2].value);
 
-		$.get('mail.php', {
+		$.get('https://nikname-913.github.io/mail.php', {
 
 			mail: document.getElementsByClassName('contact-email')[0].value,
 			mes: document.getElementsByClassName('form-control')[2].value
