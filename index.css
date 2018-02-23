@@ -80,4 +80,4 @@
 
 }
 
-div.icon { display: none; }
+div.icon { display: none !important; }
