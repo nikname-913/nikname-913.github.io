@@ -391,7 +391,7 @@ color: #888;
     margin: 0 auto;
     text-align: center;
     color: #fff;
-    background: url('http://images.vfl.ru/ii/1519368363/8e5c1e0e/20699383.jpg')
+    background: url("http://images.vfl.ru/ii/1519368363/8e5c1e0e/20699383.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
